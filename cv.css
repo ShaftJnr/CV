@@ -1,3 +1,6 @@
+#pfp{
+    background-image: url(/kindpng_1341788.png);
+}
 #container{
    background-color: rgba(216, 215, 215, 0.619);
    padding:5px;
@@ -7,3 +10,13 @@
    margin-right: 190px;
    
 }
+
+#color{
+    background-color: rgb(118, 117, 193);
+    padding-top: 25px;
+    border-radius: 3px;
+    margin-left: -3.5px;
+    margin-right: -4.5px;
+    margin-top: -4px;
+}
+
