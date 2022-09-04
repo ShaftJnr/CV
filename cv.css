@@ -1,13 +1,11 @@
-#pfp{
-    background-image: url(/kindpng_1341788.png);
-}
 #container{
    background-color: rgba(216, 215, 215, 0.619);
    padding:5px;
    padding-bottom:20px;
    border-radius: 5px;
-   margin-left: 190px;
-   margin-right: 190px;
+   margin-left: 550px;
+   margin-right: 550px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
    
 }
 
